@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="login"
+    errors="0" failures="0" hostname="" id="" package="login" skipped="0"
+    tests="4" time="25.34" timestamp="">
+  
+    <testcase name="Verify that cursor is focused on “Username” text box" classname="login" time="2.713" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name=" verify that cursor is focused on “password” text box" classname="login" time="5.069" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Verify that the login screen contains elements " classname="login" time="7.450" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Verify that Enter/Tab key works as a substitute focus" classname="login" time="10.11" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
